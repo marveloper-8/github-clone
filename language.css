@@ -1,0 +1,1003 @@
+
+    .content .ABAP .details .language .dot{
+    background: #E8274B;
+    }
+    .content .ABAP CDS .details .language .dot{
+    background: #555e25;
+    }
+    .content .ActionScript .details .language .dot{
+    background: #882B0F;
+    }
+    .content .Ada .details .language .dot{
+    background: #02f88c;
+    }
+    .content .Agda .details .language .dot{
+    background: #315665;
+    }
+    .content .AGSScript .details .language .dot{
+    background: #B9D9FF;
+    }
+    .content .AIDL .details .language .dot{
+    background: #34EB6B;
+    }
+    .content .AL .details .language .dot{
+    background: #3AA2B5;
+    }
+    .content .Alloy .details .language .dot{
+    background: #64C800;
+    }
+    .content .AMPL .details .language .dot{
+    background: #E6EFBB;
+    }
+    .content .AngelScript .details .language .dot{
+    background: #C7D7DC;
+    }
+    .content .ANTLR .details .language .dot{
+    background: #9DC3FF;
+    }
+    .content .Apex .details .language .dot{
+    background: #1797c0;
+    }
+    .content .API Blueprint .details .language .dot{
+    background: #2ACCA8;
+    }
+    .content .APL .details .language .dot{
+    background: #5A8164;
+    }
+    .Apollo Guidance Comp .dotuter{
+    background: "#0B3D91";
+    }
+    .content .AppleScript .details .language .dot{
+    background: #101F1F;
+    }
+    .content .Arc .details .language .dot{
+    background: #aa2afe;
+    }
+    .content .ASP.NET .details .language .dot{
+    background: #9400ff;
+    }
+    .content .AspectJ .details .language .dot{
+    background: #a957b0;
+    }
+    .content .Assembly .details .language .dot{
+    background: #6E4C13;
+    }
+    .content .Asymptote .details .language .dot{
+    background: #ff0000;
+    }
+    .content .ATS .details .language .dot{
+    background: #1ac620;
+    }
+    .content .AutoHotkey .details .language .dot{
+    background: #6594b9;
+    }
+    .content .AutoIt .details .language .dot{
+    background: #1C3552;
+    }
+    .content .Ballerina .details .language .dot{
+    background: #FF5000;
+    }
+    .content .BASIC .details .language .dot{
+    background: #ff0000;
+    }
+    .content .Batchfile .details .language .dot{
+    background: #C1F12E;
+    }
+    .content .Beef .details .language .dot{
+    background: #a52f4e;
+    }
+    .content .Bicep .details .language .dot{
+    background: #519aba;
+    }
+    .content .Bison .details .language .dot{
+    background: #6A463F;
+    }
+    .content .Blade .details .language .dot{
+    background: #f7523f;
+    }
+    .content .BlitzMax .details .language .dot{
+    background: #cd6400;
+    }
+    .content .Boo .details .language .dot{
+    background: #d4bec1;
+    }
+    .content .Boogie .details .language .dot{
+    background: #c80fa0;
+    }
+    .content .Brainfuck .details .language .dot{
+    background: #2F2530;
+    }
+    .content .Browserslist .details .language .dot{
+    background: #ffd539;
+    }
+    .content .C .details .language .dot{
+    background: #555555;
+    }
+    .content .C .details .language .dot{
+    background: #178600;
+    }
+    .content .C .details .language .dot{
+    background: #f34b7d;
+    }
+    .content .Ceylon .details .language .dot{
+    background: #dfa535;
+    }
+    .content .Chapel .details .language .dot{
+    background: #8dc63f;
+    }
+    .content .Cirru .details .language .dot{
+    background: #ccccff;
+    }
+    .content .Clarion .details .language .dot{
+    background: #db901e;
+    }
+    .content .Classic ASP .details .language .dot{
+    background: #6a40fd;
+    }
+    .content .Clean .details .language .dot{
+    background: #3F85AF;
+    }
+    .content .Click .details .language .dot{
+    background: #E4E6F3;
+    }
+    .content .Clojure .details .language .dot{
+    background: #db5855;
+    }
+    .content .Closure Templates .details .language .dot{
+    background: #0d948f;
+    }
+    .content .CoffeeScript .details .language .dot{
+    background: #244776;
+    }
+    .content .ColdFusion .details .language .dot{
+    background: #ed2cd6;
+    }
+    .content .ColdFusion CFC .details .language .dot{
+    background: #ed2cd6;
+    }
+    .content .Common Lisp .details .language .dot{
+    background: #3fb68b;
+    }
+    .Common Workflow Lang .dotuage{
+    background: "#B5314C";
+    }
+    .content .Component Pascal .details .language .dot{
+    background: #B0CE4E;
+    }
+    .content .Crystal .details .language .dot{
+    background: #000100;
+    }
+    .content .CSON .details .language .dot{
+    background: #244776;
+    }
+    .content .CSS .details .language .dot{
+    background: #563d7c;
+    }
+    .content .Cuda .details .language .dot{
+    background: #3A4E3A;
+    }
+    .content .CUE .details .language .dot{
+    background: #5886E1;
+    }
+    .content .D .details .language .dot{
+    background: #ba595e;
+    }
+    .content .Dafny .details .language .dot{
+    background: #FFEC25;
+    }
+    .content .Dart .details .language .dot{
+    background: #00B4AB;
+    }
+    .content .DataWeave .details .language .dot{
+    background: #003a52;
+    }
+    .content .Dhall .details .language .dot{
+    background: #dfafff;
+    }
+    .content .DM .details .language .dot{
+    background: #447265;
+    }
+    .content .Dockerfile .details .language .dot{
+    background: #384d54;
+    }
+    .content .Dogescript .details .language .dot{
+    background: #cca760;
+    }
+    .content .Dylan .details .language .dot{
+    background: #6c616e;
+    }
+    .content .E .details .language .dot{
+    background: #ccce35;
+    }
+    .content .eC .details .language .dot{
+    background: #913960;
+    }
+    .content .ECL .details .language .dot{
+    background: #8a1267;
+    }
+    .content .Eiffel .details .language .dot{
+    background: #4d6977;
+    }
+    .content .EJS .details .language .dot{
+    background: #a91e50;
+    }
+    .content .Elixir .details .language .dot{
+    background: #6e4a7e;
+    }
+    .content .Elm .details .language .dot{
+    background: #60B5CC;
+    }
+    .content .Emacs Lisp .details .language .dot{
+    background: #c065db;
+    }
+    .content .EmberScript .details .language .dot{
+    background: #FFF4F3;
+    }
+    .content .EQ .details .language .dot{
+    background: #a78649;
+    }
+    .content .Erlang .details .language .dot{
+    background: #B83998;
+    }
+    .content .F .details .language .dot{
+    background: #b845fc;
+    }
+    .content .F* .details .language .dot{
+    background: #572e30;
+    }
+    .content .Factor .details .language .dot{
+    background: #636746;
+    }
+    .content .Fancy .details .language .dot{
+    background: #7b9db4;
+    }
+    .content .Fantom .details .language .dot{
+    background: #14253c;
+    }
+    .content .Faust .details .language .dot{
+    background: #c37240;
+    }
+    .content .FLUX .details .language .dot{
+    background: #88ccff;
+    }
+    .content .Forth .details .language .dot{
+    background: #341708;
+    }
+    .content .Fortran .details .language .dot{
+    background: #4d41b1;
+    }
+    .content .FreeBasic .details .language .dot{
+    background: #867db1;
+    }
+    .content .FreeMarker .details .language .dot{
+    background: #0050b2;
+    }
+    .content .Frege .details .language .dot{
+    background: #00cafe;
+    }
+    .content .Futhark .details .language .dot{
+    background: #5f021f;
+    }
+    .content .G-code .details .language .dot{
+    background: #D08CF2;
+    }
+    .content .GameMakerLanguage .details .language .dot{
+    background: #71b417;
+    }
+    .content .GAML .details .language .dot{
+    background: #FFC766;
+    }
+    .GCC Machine Des .dotcription{
+    background: null;
+    }
+    .content .GDScript .details .language .dot{
+    background: #355570;
+    }
+    .content .Gemfile.lock .details .language .dot{
+    background: #701516;
+    }
+    .content .Genie .details .language .dot{
+    background: #fb855d;
+    }
+    .content .Gherkin .details .language .dot{
+    background: #5B2063;
+    }
+    .content .Glyph .details .language .dot{
+    background: #c1ac7f;
+    }
+    .content .Gnuplot .details .language .dot{
+    background: #f0a9f0;
+    }
+    .content .Go .details .language .dot{
+    background: #00ADD8;
+    }
+    .content .Golo .details .language .dot{
+    background: #88562A;
+    }
+    .content .Gosu .details .language .dot{
+    background: #82937f;
+    }
+    .Grammatical Framewor .details .language .dot{
+    background: #ff0000;
+    }
+    .content .GraphQL .details .language .dot{
+    background: #e10098;
+    }
+    .content .Groovy .details .language .dot{
+    background: #e69f56;
+    }
+    .Groovy Server P .dotages{
+    background: null;
+    }
+    .content .Hack .details .language .dot{
+    background: #878787;
+    }
+    .content .Haml .details .language .dot{
+    background: #ece2a9;
+    }
+    .content .Handlebars .details .language .dot{
+    background: #f7931e;
+    }
+    .content .Harbour .details .language .dot{
+    background: #0e60e3;
+    }
+    .content .Haskell .details .language .dot{
+    background: #5e5086;
+    }
+    .content .Haxe .details .language .dot{
+    background: #df7900;
+    }
+    .content .HiveQL .details .language .dot{
+    background: #dce200;
+    }
+    .content .HolyC .details .language .dot{
+    background: #ffefaf;
+    }
+    .content .HTML .details .language .dot{
+    background: #e34c26;
+    }
+    .content .Hy .details .language .dot{
+    background: #7790B2;
+    }
+    .content .IDL .details .language .dot{
+    background: #a3522f;
+    }
+    .content .Idris .details .language .dot{
+    background: #b30000;
+    }
+    .content .IGOR Pro .details .language .dot{
+    background: #0000cc;
+    }
+    .content .ImageJ Macro .details .language .dot{
+    background: #99AAFF;
+    }
+    .content .Io .details .language .dot{
+    background: #a9188d;
+    }
+    .content .Ioke .details .language .dot{
+    background: #078193;
+    }
+    .content .Isabelle .details .language .dot{
+    background: #FEFE00;
+    }
+    .content .J .details .language .dot{
+    background: #9EEDFF;
+    }
+    .content .Java .details .language .dot{
+    background: #b07219;
+    }
+    .Java Server Pag .dotes{
+    background: null;
+    }
+    .content .JavaScript .details .language .dot{
+    background: #f1e05a;
+    }
+    .content .JFlex .details .language .dot{
+    background: #DBCA00;
+    }
+    .content .Jinja .details .language .dot{
+    background: #a52a22;
+    }
+    .content .Jolie .details .language .dot{
+    background: #843179;
+    }
+    .content .jq .details .language .dot{
+    background: #c7254e;
+    }
+    .content .JSONiq .details .language .dot{
+    background: #40d47e;
+    }
+    .content .Jsonnet .details .language .dot{
+    background: #0064bd;
+    }
+    .content .Julia .details .language .dot{
+    background: #a270ba;
+    }
+    .content .Jupyter Notebook .details .language .dot{
+    background: #DA5B0B;
+    }
+    .content .Kaitai Struct .details .language .dot{
+    background: #773b37;
+    }
+    .content .Kotlin .details .language .dot{
+    background: #F18E33;
+    }
+    .content .KRL .details .language .dot{
+    background: #28430A;
+    }
+    .content .Lark .details .language .dot{
+    background: #2980B9;
+    }
+    .content .Lasso .details .language .dot{
+    background: #999999;
+    }
+    .content .Latte .details .language .dot{
+    background: #f2a542;
+    }
+    .content .Less .details .language .dot{
+    background: #1d365d;
+    }
+    .content .Lex .details .language .dot{
+    background: #DBCA00;
+    }
+    .content .LFE .details .language .dot{
+    background: #4C3023;
+    }
+    .content .LilyPond .details .language .dot{
+    background: #9ccc7c;
+    }
+    .content .Liquid .details .language .dot{
+    background: #67b8de;
+    }
+    .Literate Coffee .dotScript{
+    background: null;
+    }
+    .Literate Haskel .dotl{
+    background: null;
+    }
+    .content .LiveScript .details .language .dot{
+    background: #499886;
+    }
+    .content .LLVM .details .language .dot{
+    background: #185619;
+    }
+    .content .LOLCODE .details .language .dot{
+    background: #cc9900;
+    }
+    .content .LookML .details .language .dot{
+    background: #652B81;
+    }
+    .content .LSL .details .language .dot{
+    background: #3d9970;
+    }
+    .content .Lua .details .language .dot{
+    background: #000080;
+    }
+    .content .Macaulay2 .details .language .dot{
+    background: #d8ffff;
+    }
+    .content .Makefile .details .language .dot{
+    background: #427819;
+    }
+    .content .Markdown .details .language .dot{
+    background: #083fa1;
+    }
+    .content .Marko .details .language .dot{
+    background: #42bff2;
+    }
+    .content .Mask .details .language .dot{
+    background: #f97732;
+    }
+    .content .MATLAB .details .language .dot{
+    background: #e16737;
+    }
+    .content .Max .details .language .dot{
+    background: #c4a79c;
+    }
+    .content .MAXScript .details .language .dot{
+    background: #00a6a6;
+    }
+    .content .mcfunction .details .language .dot{
+    background: #E22837;
+    }
+    .content .Mercury .details .language .dot{
+    background: #ff2b2b;
+    }
+    .content .Meson .details .language .dot{
+    background: #007800;
+    }
+    .content .Metal .details .language .dot{
+    background: #8f14e9;
+    }
+    .content .Mirah .details .language .dot{
+    background: #c7a938;
+    }
+    .content .mIRC Script .details .language .dot{
+    background: #3d57c3;
+    }
+    .content .MLIR .details .language .dot{
+    background: #5EC8DB;
+    }
+    .content .Modula-3 .details .language .dot{
+    background: #223388;
+    }
+    .Module Manageme .dotnt System{
+    background: null;
+    }
+    .Motorola68K Ass .dotembly{
+    background: null;
+    }
+    .content .MQL4 .details .language .dot{
+    background: #62A8D6;
+    }
+    .content .MQL5 .details .language .dot{
+    background: #4A76B8;
+    }
+    .content .MTML .details .language .dot{
+    background: #b7e1f4;
+    }
+    .content .Mustache .details .language .dot{
+    background: #724b3b;
+    }
+    .content .NCL .details .language .dot{
+    background: #28431f;
+    }
+    .content .Nearley .details .language .dot{
+    background: #990000;
+    }
+    .content .Nemerle .details .language .dot{
+    background: #3d3c6e;
+    }
+    .content .nesC .details .language .dot{
+    background: #94B0C7;
+    }
+    .content .NetLinx .details .language .dot{
+    background: #0aa0ff;
+    }
+    .content .NetLinx+ERB .details .language .dot{
+    background: #747faa;
+    }
+    .content .NetLogo .details .language .dot{
+    background: #ff6375;
+    }
+    .content .NewLisp .details .language .dot{
+    background: #87AED7;
+    }
+    .content .Nextflow .details .language .dot{
+    background: #3ac486;
+    }
+    .content .Nim .details .language .dot{
+    background: #ffc200;
+    }
+    .content .Nit .details .language .dot{
+    background: #009917;
+    }
+    .content .Nix .details .language .dot{
+    background: #7e7eff;
+    }
+    .content .Nu .details .language .dot{
+    background: #c9df40;
+    }
+    .content .NumPy .details .language .dot{
+    background: #9C8AF9;
+    }
+    .content .Nunjucks .details .language .dot{
+    background: #3d8137;
+    }
+    .content .NWScript .details .language .dot{
+    background: #111522;
+    }
+    .content .Objective-C .details .language .dot{
+    background: #438eff;
+    }
+    .content .Objective-C .details .language .dot{
+    background: #6866fb;
+    }
+    .content .Objective-J .details .language .dot{
+    background: #ff0c5a;
+    }
+    .content .ObjectScript .details .language .dot{
+    background: #424893;
+    }
+    .content .OCaml .details .language .dot{
+    background: #3be133;
+    }
+    .content .Odin .details .language .dot{
+    background: #60AFFE;
+    }
+    .content .Omgrofl .details .language .dot{
+    background: #cabbff;
+    }
+    .content .ooc .details .language .dot{
+    background: #b0b77e;
+    }
+    .content .Opal .details .language .dot{
+    background: #f7ede0;
+    }
+    .Open Policy Age .dotnt{
+    background: null;
+    }
+    .content .OpenQASM .details .language .dot{
+    background: #AA70FF;
+    }
+    .OpenRC runscrip .dott{
+    background: null;
+    }
+    .content .Org .details .language .dot{
+    background: #77aa99;
+    }
+    .content .Oxygene .details .language .dot{
+    background: #cdd0e3;
+    }
+    .content .Oz .details .language .dot{
+    background: #fab738;
+    }
+    .content .P4 .details .language .dot{
+    background: #7055b5;
+    }
+    .content .Pan .details .language .dot{
+    background: #cc0000;
+    }
+    .content .Papyrus .details .language .dot{
+    background: #6600cc;
+    }
+    .content .Parrot .details .language .dot{
+    background: #f3ca0a;
+    }
+    .content .Pascal .details .language .dot{
+    background: #E3F171;
+    }
+    .content .Pawn .details .language .dot{
+    background: #dbb284;
+    }
+    .content .Pep8 .details .language .dot{
+    background: #C76F5B;
+    }
+    .content .Perl .details .language .dot{
+    background: #0298c3;
+    }
+    .content .PHP .details .language .dot{
+    background: #4F5D95;
+    }
+    .content .PigLatin .details .language .dot{
+    background: #fcd7de;
+    }
+    .content .Pike .details .language .dot{
+    background: #005390;
+    }
+    .content .PLSQL .details .language .dot{
+    background: #dad8d8;
+    }
+    .content .PogoScript .details .language .dot{
+    background: #d80074;
+    }
+    .content .PostScript .details .language .dot{
+    background: #da291c;
+    }
+    .content .PowerBuilder .details .language .dot{
+    background: #8f0f8d;
+    }
+    .content .PowerShell .details .language .dot{
+    background: #012456;
+    }
+    .content .Prisma .details .language .dot{
+    background: #0c344b;
+    }
+    .content .Processing .details .language .dot{
+    background: #0096D8;
+    }
+    .content .Prolog .details .language .dot{
+    background: #74283c;
+    }
+    .content .Propeller Spin .details .language .dot{
+    background: #7fa2a7;
+    }
+    .content .Pug .details .language .dot{
+    background: #a86454;
+    }
+    .content .Puppet .details .language .dot{
+    background: #302B6D;
+    }
+    .content .PureBasic .details .language .dot{
+    background: #5a6986;
+    }
+    .content .PureScript .details .language .dot{
+    background: #1D222D;
+    }
+    .content .Python .details .language .dot{
+    background: #3572A5;
+    }
+    .content .q .details .language .dot{
+    background: #0040cd;
+    }
+    .content .Q .details .language .dot{
+    background: #fed659;
+    }
+    .content .QML .details .language .dot{
+    background: #44a51c;
+    }
+    .content .QtScript .details .language .dot{
+    background: #00b841;
+    }
+    .content .Quake .details .language .dot{
+    background: #882233;
+    }
+    .content .R .details .language .dot{
+    background: #198CE7;
+    }
+    .content .Racket .details .language .dot{
+    background: #3c5caa;
+    }
+    .content .Ragel .details .language .dot{
+    background: #9d5200;
+    }
+    .content .Raku .details .language .dot{
+    background: #0000fb;
+    }
+    .content .RAML .details .language .dot{
+    background: #77d9fb;
+    }
+    .content .Rascal .details .language .dot{
+    background: #fffaa0;
+    }
+    .content .Reason .details .language .dot{
+    background: #ff5847;
+    }
+    .content .Rebol .details .language .dot{
+    background: #358a5b;
+    }
+    .content .Record Jar .details .language .dot{
+    background: #0673ba;
+    }
+    .content .Red .details .language .dot{
+    background: #f50000;
+    }
+    .content .RenPy .details .language .dot{
+    background: #ff7f7f;
+    }
+    .content .ReScript .details .language .dot{
+    background: #ed5051;
+    }
+    .content .Ring .details .language .dot{
+    background: #2D54CB;
+    }
+    .content .Riot .details .language .dot{
+    background: #A71E49;
+    }
+    .content .Roff .details .language .dot{
+    background: #ecdebe;
+    }
+    .content .Rouge .details .language .dot{
+    background: #cc0088;
+    }
+    .content .Ruby .details .language .dot{
+    background: #701516;
+    }
+    .content .RUNOFF .details .language .dot{
+    background: #665a4e;
+    }
+    .content .Rust .details .language .dot{
+    background: #dea584;
+    }
+    .content .SaltStack .details .language .dot{
+    background: #646464;
+    }
+    .content .SAS .details .language .dot{
+    background: #B34936;
+    }
+    .content .Sass .details .language .dot{
+    background: #a53b70;
+    }
+    .content .Scala .details .language .dot{
+    background: #c22d40;
+    }
+    .content .Scaml .details .language .dot{
+    background: #bd181a;
+    }
+    .content .Scheme .details .language .dot{
+    background: #1e4aec;
+    }
+    .content .SCSS .details .language .dot{
+    background: #c6538c;
+    }
+    .content .sed .details .language .dot{
+    background: #64b970;
+    }
+    .content .Self .details .language .dot{
+    background: #0579aa;
+    }
+    .content .Shell .details .language .dot{
+    background: #89e051;
+    }
+    .content .Shen .details .language .dot{
+    background: #120F14;
+    }
+    .content .Singularity .details .language .dot{
+    background: #64E6AD;
+    }
+    .content .Slash .details .language .dot{
+    background: #007eff;
+    }
+    .content .Slice .details .language .dot{
+    background: #003fa2;
+    }
+    .content .Slim .details .language .dot{
+    background: #2b2b2b;
+    }
+    .content .Smalltalk .details .language .dot{
+    background: #596706;
+    }
+    .content .SmPL .details .language .dot{
+    background: #c94949;
+    }
+    .content .Solidity .details .language .dot{
+    background: #AA6746;
+    }
+    .content .SourcePawn .details .language .dot{
+    background: #f69e1d;
+    }
+    .content .SQF .details .language .dot{
+    background: #3F3F3F;
+    }
+    .content .Squirrel .details .language .dot{
+    background: #800000;
+    }
+    .content .SRecodeTemplate .details .language .dot{
+    background: #348a34;
+    }
+    .content .Stan .details .language .dot{
+    background: #b2011d;
+    }
+    .content .Standard ML .details .language .dot{
+    background: #dc566d;
+    }
+    .content .Starlark .details .language .dot{
+    background: #76d275;
+    }
+    .content .StringTemplate .details .language .dot{
+    background: #3fb34f;
+    }
+    .content .Stylus .details .language .dot{
+    background: #ff6347;
+    }
+    .content .SuperCollider .details .language .dot{
+    background: #46390b;
+    }
+    .content .Svelte .details .language .dot{
+    background: #ff3e00;
+    }
+    .content .SVG .details .language .dot{
+    background: #ff9900;
+    }
+    .content .Swift .details .language .dot{
+    background: #ffac45;
+    }
+    .content .SystemVerilog .details .language .dot{
+    background: #DAE1C2;
+    }
+    .content .Tcl .details .language .dot{
+    background: #e4cc98;
+    }
+    .content .Terra .details .language .dot{
+    background: #00004c;
+    }
+    .content .TeX .details .language .dot{
+    background: #3D6117;
+    }
+    .content .TextMate Properties .details .language .dot{
+    background: #df66e4;
+    }
+    .content .TI Program .details .language .dot{
+    background: #A0AA87;
+    }
+    .content .Turing .details .language .dot{
+    background: #cf142b;
+    }
+    .content .Twig .details .language .dot{
+    background: #c1d026;
+    }
+    .content .TypeScript .details .language .dot{
+    background: #2b7489;
+    }
+    .content .Unified Parallel C .details .language .dot{
+    background: #4e3617;
+    }
+    .content .Uno .details .language .dot{
+    background: #9933cc;
+    }
+    .content .UnrealScript .details .language .dot{
+    background: #a54c4d;
+    }
+    .content .V .details .language .dot{
+    background: #4f87c4;
+    }
+    .content .Vala .details .language .dot{
+    background: #fbe5cd;
+    }
+    .content .ValveDataFormat .details .language .dot{
+    background: #f26025;
+    }
+    .content .VBA .details .language .dot{
+    background: #867db1;
+    }
+    .content .VBScript .details .language .dot{
+    background: #15dcdc;
+    }
+    .content .VCL .details .language .dot{
+    background: #148AA8;
+    }
+    .content .Verilog .details .language .dot{
+    background: #b2b7f8;
+    }
+    .content .VHDL .details .language .dot{
+    background: #adb2cb;
+    }
+    .content .Vimscript .details .language .dot{
+    background: #199f4b;
+    }
+    .content .Visual Basic .NET .details .language .dot{
+    background: #945db7;
+    }
+    .content .Volt .details .language .dot{
+    background: #1F1F1F;
+    }
+    .content .Vue .details .language .dot{
+    background: #41b883;
+    }
+    .content .wdl .details .language .dot{
+    background: #42f1f4;
+    }
+    .content .WebAssembly .details .language .dot{
+    background: #04133b;
+    }
+    .content .wisp .details .language .dot{
+    background: #7582D1;
+    }
+    .content .Wollok .details .language .dot{
+    background: #a23738;
+    }
+    .content .X10 .details .language .dot{
+    background: #4B6BEF;
+    }
+    .content .xBase .details .language .dot{
+    background: #403a40;
+    }
+    .content .XC .details .language .dot{
+    background: #99DA07;
+    }
+    .content .Xonsh .details .language .dot{
+    background: #285EEF;
+    }
+    .content .XQuery .details .language .dot{
+    background: #5232e7;
+    }
+    .content .XSLT .details .language .dot{
+    background: #EB8CEB;
+    }
+    .content .Yacc .details .language .dot{
+    background: #4B6C4B;
+    }
+    .content .YAML .details .language .dot{
+    background: #cb171e;
+    }
+    .content .YARA .details .language .dot{
+    background: #220000;
+    }
+    .content .YASnippet .details .language .dot{
+    background: #32AB90;
+    }
+    .content .ZAP .details .language .dot{
+    background: #0d665e;
+    }
+    .content .ZenScript .details .language .dot{
+    background: #00BCD1;
+    }
+    .content .Zephir .details .language .dot{
+    background: #118f9e;
+    }
+    .content .Zig .details .language .dot{
+    background: #ec915c;
+    }
+    .content .ZIL .details .language .dot{
+    background: #dc75e5;
+    }
