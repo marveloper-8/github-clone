@@ -96,7 +96,7 @@ body{
     display:flex;
     align-items:center;
 }
-.bottom-nav .left .image{
+.bottom-nav .left .profile-picture{
     width:36px;
     height:36px;
     background:grey;

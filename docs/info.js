@@ -24,6 +24,7 @@ const container = document.querySelector("#repos");
 // url = `https://api.github.com/users/${username}`;
 const info = document.querySelector("#info");
 const button = document.querySelector(".button");
+const profilePicture = document.querySelector(".profile-picture");
 
   button.onclick = function(){
     // alert(username)
@@ -80,6 +81,8 @@ const button = document.querySelector(".button");
                 <div class="username">${data.login}</div>
                 <div class="description">${data.bio}</div>
             `
+
+            profilePicture.style.backgroundImage = `url(${data.avatar_url})`
             
             append(info, div);
     })
